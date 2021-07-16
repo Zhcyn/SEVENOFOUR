@@ -1,0 +1,2 @@
+# SEVENOFOUR
+An application for observing the detailed information of plants grown by yourself and the function of adding more plants. The added function is currently under development and will be added in the future. The current project is still under development, and the current stage mainly tests the integrity of the interface UI and the correctness of logical operations. If you encounter problems during the test, please contact me.
